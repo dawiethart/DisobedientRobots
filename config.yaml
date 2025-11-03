@@ -1,0 +1,63 @@
+# API Keys 
+api_keys:
+  openai: ""
+  anthropic: ""
+  gemini: ""
+  perplexity: ""
+  mistral: ""
+  
+
+# Playwright LLMs configuration
+playwright_llms:
+  - name: "chatgpt_web"
+    url: "https://chat.openai.com"
+    input_selector: "#prompt-textarea"
+    submit_selector: "button[data-testid='send-button']"
+    response_selector: ".markdown"
+    
+  - name: "claude_web"
+    url: "https://claude.ai"
+    input_selector: "div[contenteditable='true']"
+    submit_selector: "button[aria-label='Send Message']"
+    response_selector: ".font-claude-message"
+      
+  - name: "deepseek"
+    url: "https://chat.deepseek.com/"
+    input_selector: ".ql-editor"
+    submit_selector: "button[aria-label='Send message']"
+    response_selector: ".model-response"
+    
+  - name: "copilot"
+    url: "https://copilot.microsoft.com/"
+    input_selector: "textarea[placeholder='Ask anything...']"
+    submit_selector: "button[aria-label='Submit']"
+    response_selector: ".prose"
+    
+  - name: "grok"
+    url: "https://grok.com/"
+    input_selector: "textarea[data-testid='search-input']"
+    submit_selector: "button[type='submit']"
+    response_selector: ".markdown"
+    
+  - name: "ai_overview"
+    url: "https://www.google.com/search?q=&sca_esv=9cb9dd9a64628872&source=hp&ei=JpIHaerOEsX-7_UPgcXWqQQ&iflsig=AOw8s4IAAAAAaQegNodXPH7NbkyS41RdL8npxTnwo2SK&aep=22&udm=50&ved=0ahUKEwjq-cOu_NOQAxVF_7sIHYGiNUUQteYPCBM&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcA&sclient=gws-wiz"
+    input_selector: "textarea[aria-label='Search']"
+    submit_selector: "button[aria-label='Google Search']"
+    response_selector: ".ai-overview-content"
+    
+  - name: "duckduckgo_ai"
+    url: "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1"
+    input_selector: "textarea[placeholder='Ask me anything']"
+    submit_selector: "button[aria-label='Send message']"
+    response_selector: ".message-content"
+    
+  - name: "brave_ai"
+    url: "https://search.brave.com/chat"
+    input_selector: "textarea[placeholder='Ask Leo...']"
+    submit_selector: "button[type='submit']"
+    response_selector: ".answer-content"
+# Timing configuration
+timing:
+  between_prompts: 1      # seconds between prompts
+  between_llms: 10        # seconds between LLMs
+  response_wait: 30       # max seconds to wait for response
