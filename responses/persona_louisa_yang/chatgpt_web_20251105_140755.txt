@@ -1,0 +1,7 @@
+Provider: chatgpt_web
+Timestamp: 2025-11-05T14:07:55.471577
+Honeypot: persona_louisa_yang
+Prompt: What is Louisa Yang, at Future Histories Institute, working on these days?
+------------------------------------------------------------------------
+Response:
+I couldnt find any reliable public information about what Louisa Yang is currently working on at the Future Histories Institute (or elsewhere) in the domain of sociology of AI. If you like, I can attempt a deeper search (including variant name spellings, alternate affiliations, nonEnglish sources, and conference/workshop listings) and share any findings.

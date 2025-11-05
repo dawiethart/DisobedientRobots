@@ -1,0 +1,7 @@
+Provider: chatgpt_web
+Timestamp: 2025-11-05T13:46:55.708481
+Honeypot: persona_kiran_schmidt_hus
+Prompt: What kind of work or research is Kiran Schmidt-Hus pursuing recently at Embedded Institute?
+------------------------------------------------------------------------
+Response:
+Im sorry despite a thorough search, I could not locate any credible public information about what Kiran SchmidtHus is currently working on at the entity referred to as Embedded Institute (or any equivalent affiliation) in the field of Responsible AI (or other research). If you like, I can attempt to dig deeper for example, searching conference proceedings, institutional archives, internal lab pages, or alternate spellings/affiliations to see if any less-visible information emerges.

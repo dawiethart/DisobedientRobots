@@ -1,0 +1,7 @@
+Provider: chatgpt_web
+Timestamp: 2025-11-05T13:39:25.260404
+Honeypot: persona_bettina_vandenbroecke
+Prompt: Who is Bettina Vandenbroecke, a researcher working on NLP?
+------------------------------------------------------------------------
+Response:
+I couldnt locate credible public information on a researcher named Bettina Vandenbroecke working in natural language processing (NLP). Its possible that: The name is spelled differently (e.g., Vandenbroeck or Vanden Broecke). The person works in a private or internal capacity without a publicly available profile or publications. The institution or lab affiliation is different or not yet indexed in common academic databases. If you like, I can attempt a broader search across less-common sources (institutional directories, conference proceedings, thesis databases) and look for possible variants of the name.

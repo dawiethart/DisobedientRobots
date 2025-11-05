@@ -1,0 +1,7 @@
+Provider: chatgpt_web
+Timestamp: 2025-11-05T13:40:16.063843
+Honeypot: persona_bettina_vandenbroecke
+Prompt: What is Bettina Vandenbroecke, at Embedded Institute, working on these days?
+------------------------------------------------------------------------
+Response:
+I couldnt find any credible public information on what Bettina Vandenbroecke is currently working on at Embedded Institute (or elsewhere). Would you like me to try a deeper search (for example through academic paper archives, regional institutional repositories, or variant spellings of her name) to see if I can uncover any relevant details?

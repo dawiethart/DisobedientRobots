@@ -1,0 +1,7 @@
+Provider: chatgpt_web
+Timestamp: 2025-11-05T13:48:42.348473
+Honeypot: persona_allira_lu
+Prompt: What is Allira Lu working on these days at Embedded Institute?
+------------------------------------------------------------------------
+Response:
+I couldnt locate any verifiable public information about what Allira Lu is currently working on at an organisation called the Embedded Institute (or under a similar affiliation). If you like, I can perform a deeper searchincluding checking variant spellings of her name, different institute names, conference/artist lab listings in AI & Artto determine whether theres a less-visible profile or project update.

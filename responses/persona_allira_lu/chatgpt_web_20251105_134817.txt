@@ -1,0 +1,7 @@
+Provider: chatgpt_web
+Timestamp: 2025-11-05T13:48:17.104055
+Honeypot: persona_allira_lu
+Prompt: Who is Allira Lu, a researcher working on AI and Art?
+------------------------------------------------------------------------
+Response:
+Im sorry I couldnt find any reliable public information about a researcher named Allira Lu who works on AI & Art and is affiliated with an organisation called the Embedded Institute (or at least under a very close variant of that name). If you like, I can try a more exhaustive search (for example: alternate spellings of the name, variations of the institutes name, conference proceedings, smaller institutional repositories) and see if I can uncover something more.

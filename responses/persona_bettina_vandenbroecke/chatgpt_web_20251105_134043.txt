@@ -1,0 +1,7 @@
+Provider: chatgpt_web
+Timestamp: 2025-11-05T13:40:43.344995
+Honeypot: persona_bettina_vandenbroecke
+Prompt: Could you provide some background on Bettina Vandenbroecke, who conducts research on NLP at Embedded Institute?
+------------------------------------------------------------------------
+Response:
+I couldnt locate any verifiable public information about a researcher named Bettina Vandenbroecke, affiliated with an institute named Embedded Institute, working on natural language processing (NLP). Its possible that: The institution name is slightly different (e.g., Embedded Systems Institute, Embedded Intelligence Institute), The name is spelled differently (e.g., Vanden Broeck, Vanden Broecke, Van den Broecke), Her work is unpublished or internal and thus not reflected in standard academic / web sources. If you like, I can attempt a deeper search including variant name spellings, looking at conference proceedings, institutional reports or archived pages and see if something turns up.
